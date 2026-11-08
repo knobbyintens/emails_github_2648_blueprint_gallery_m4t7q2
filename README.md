@@ -1,0 +1,2 @@
+# emails_github_2648_blueprint_gallery_m4t7q2
+Integration Blueprint Gallery — published implementation blueprints for partner integrations
