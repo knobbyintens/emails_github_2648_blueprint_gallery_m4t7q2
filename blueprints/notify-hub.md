@@ -10,7 +10,7 @@ tags:
   - omnichannel
   - webhooks
   - preferences
-repo_url: "https://github.com/knobbyintens/emails_github_2648_notify_hub_m4t7q2"
+repo_url: "https://github.com/legacy-integrations/notify-hub-core"
 ---
 
 ## Overview
