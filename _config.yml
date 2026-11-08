@@ -1,0 +1,4 @@
+title: Integration Blueprint Gallery
+description: Published implementation blueprints for partner integrations
+baseurl: ""
+permalink: /blueprints/:slug/
