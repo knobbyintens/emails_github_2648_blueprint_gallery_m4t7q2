@@ -10,7 +10,6 @@ tags:
   - ledger
   - exactly-once
   - event-streaming
-repo_url: "https://github.com/knobbyintens/emails_github_2648_ledger_sync_m4t7q2"
 ---
 
 ## Overview
